@@ -15,7 +15,7 @@ A aplicação simula uma **Central de Notificações** capaz de processar e desp
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Linguagem:** Java
-* **Ambiente de Desenvolvimento:** Visual Studio Code / NetBeans
+* **Ambiente de Desenvolvimento:** Visual Studio Code
 * **Controle de Versão:** Git e GitHub
 
 ---
