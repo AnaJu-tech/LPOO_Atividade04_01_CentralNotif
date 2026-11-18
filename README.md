@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto tem como objetivo principal aplicar os pilares da **Programação Orientada a Objetos (POO)** — como Encapsulamento, Herança, Polimorfismo e Abstração —, além de explorar boas práticas de arquitetura de software e estruturação de código limpo em Java.
+Este projeto tem como objetivo principal aplicar os pilares da **Programação Orientada a Objetos (POO)**, com foco na implementação de interfaces, contratos de comportamento, métodos `default`.
 
 A aplicação simula uma **Central de Notificações** capaz de processar e despachar mensagens por múltiplos canais de comunicação, garantindo flexibilidade e extensibilidade para novos tipos de alertas.
 
